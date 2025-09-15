@@ -1,2 +1,4 @@
 # hello-world
-This is for practicing github flow
+i am a studenrt in UNBSJ
+I am currently studying Computer science.
+i am 19 years old.
